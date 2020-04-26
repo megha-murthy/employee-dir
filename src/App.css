@@ -1,0 +1,36 @@
+.App {
+  text-align: center;
+}
+
+
+.heading{
+    background-color: rgb(48, 48, 104);
+    color: white;
+    text-align: center;
+    height: 150px;
+    border-bottom: crimson 2px;
+    padding-top: 50px;
+}
+
+.formtag{
+  display:flex;
+  justify-content: center;
+  margin-bottom: 30px;
+  
+}
+
+.imagetag{
+  width: 90px;
+  height:90px;
+}
+
+.remove{
+  border:solid 1px;
+  padding:10px;
+  border-radius: 3px;
+}
+
+.phead{
+  font-size: 15px;
+  padding:10px;
+}
